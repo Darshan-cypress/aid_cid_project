@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8326","verify_login with valid credentials","chromium","Thu Jul 10 14:11:26 IST 2025","passed","Thu Jul 10 14:11:35 IST 2025","OrangeHRM Login POM","login.spec.js","",""
+"","15463","verify_login with valid credentials","firefox","Thu Jul 10 14:11:26 IST 2025","passed","Thu Jul 10 14:11:42 IST 2025","OrangeHRM Login POM","login.spec.js","",""
+"","9428","verify_login with valid credentials","webkit","Thu Jul 10 14:11:41 IST 2025","passed","Thu Jul 10 14:11:50 IST 2025","OrangeHRM Login POM","login.spec.js","",""
