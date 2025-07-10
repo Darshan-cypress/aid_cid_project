@@ -48,3 +48,12 @@ npm install -g allure-commandline
 
 
 
+A complete setup for end-to-end (E2E) testing using [Playwright](https://playwright.dev/) with JavaScript, `.env` configuration, and Allure reporting support.
+
+---
+
+## 📦 Prerequisites
+
+### ✅ 1. Install Node.js
+Download and install Node.js (includes NPM):  
+👉 [https://nodejs.org](https://nodejs.org)
