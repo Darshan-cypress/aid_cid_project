@@ -43,7 +43,16 @@ Install Allure dependencies
 npm install -D allure-playwright
 npm install -g allure-commandline
 
+In your terminal or command prompt:
 
+bash
+Copy
+Edit
+cd your-project-folder-name
+Replace your-project-folder-name with the actual name of the cloned folder.
+
+✅ 2. Check the Project Type
+Look at the contents of the project folder using:
 
 
 
